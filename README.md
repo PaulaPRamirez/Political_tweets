@@ -27,5 +27,9 @@ width="50" />
 
 <br>
 
-En el informe "Análisis Twitter" del directorio  encontrarás todos los análisis y gráficas explicadas así como las conclusiones de cada uno de los partidos. ¡Espero que te guste!
+En el informe **Análisis Twitter** del directorio  encontrarás todos los análisis y gráficas explicadas así como las conclusiones de cada uno de los partidos. 
+
+<br>
+
+**¡Espero que te guste!**
 
