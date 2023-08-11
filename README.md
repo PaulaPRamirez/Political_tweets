@@ -19,7 +19,7 @@ La estructura del directorio es la siguiente:
 En el siguiente link encontrarás la publicación en Linkedin: 
 
 <p align="left">
-<a href="https://www.linkedin.com/in/paulaparejaram%C3%ADrez/" onclick="window.open(this.href, '_blank'); return false;">
+<a href="https://www.linkedin.com/posts/paulaparejaram%C3%ADrez_an%C3%A1lisis-twitter-activity-7091762131250929664-jHtb?utm_source=share&utm_medium=member_desktop" onclick="window.open(this.href, '_blank'); return false;">
     <img align="center" src="https://github.com/PaulaPRamirez/Bio/blob/46abd9c0e5bb919e13b90b2fa885767e5708b0ac/Logo_LinkedIn.png" alt="PaulaPRamírez" height="50" 
 width="50" />
   </a>
